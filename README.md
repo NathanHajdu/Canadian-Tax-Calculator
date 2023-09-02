@@ -65,10 +65,6 @@ The tax calculations are based on the current tax rates for each province in Can
 
 For more information on Canadian tax rates, you can refer to the [Canadian Income Tax Rates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html) page.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
