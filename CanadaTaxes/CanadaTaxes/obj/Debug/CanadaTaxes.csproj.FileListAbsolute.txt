@@ -1,0 +1,11 @@
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\bin\Debug\CanadaTaxes.exe.config
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\bin\Debug\CanadaTaxes.exe
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\bin\Debug\CanadaTaxes.pdb
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.csproj.AssemblyReference.cache
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.Form1.resources
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.Properties.Resources.resources
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.csproj.GenerateResource.cache
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.csproj.CoreCompileInputs.cache
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.exe
+C:\Users\natan\Desktop\Application Development\Week 2\CanadaTaxes\CanadaTaxes\obj\Debug\CanadaTaxes.pdb
